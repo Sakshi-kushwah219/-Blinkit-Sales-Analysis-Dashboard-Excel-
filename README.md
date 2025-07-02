@@ -4,8 +4,8 @@ This project features a fully interactive Excel dashboard built to analyze retai
 It visualizes total sales, item performance, outlet categories, and customer satisfaction using advanced Excel techniques like pivot tables, slicers, and KPI cards.
 The goal is to demonstrate how Microsoft Excel can be a powerful tool for data-driven decision-making in FMCG and retail analytics.
 
-🖼️ Dashboard Preview
-(Screenshot 2025-07-02 141958.png)
+🖼️ Dashboard Preview:
+(https://github.com/Sakshi-kushwah219/-Blinkit-Sales-Analysis-Dashboard-Excel-/commit/52f1d2d85606649b8e0e1761e74c1616667ef074)
 
 🔍 Key Insights
 ₹1.2M+ total sales from 8,524 unique items
