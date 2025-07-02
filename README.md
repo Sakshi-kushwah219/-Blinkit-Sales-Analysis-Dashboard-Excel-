@@ -5,7 +5,8 @@ It visualizes total sales, item performance, outlet categories, and customer sat
 The goal is to demonstrate how Microsoft Excel can be a powerful tool for data-driven decision-making in FMCG and retail analytics.
 
 🖼️ Dashboard Preview:
-(https://github.com/Sakshi-kushwah219/-Blinkit-Sales-Analysis-Dashboard-Excel-/commit/52f1d2d85606649b8e0e1761e74c1616667ef074)
+![Screenshot](https://github.com/yourusername/yourrepo/blob/main/blinkit_dashboard.png?raw=true)
+
 
 🔍 Key Insights
 ₹1.2M+ total sales from 8,524 unique items
