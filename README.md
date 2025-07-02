@@ -5,7 +5,7 @@ It visualizes total sales, item performance, outlet categories, and customer sat
 The goal is to demonstrate how Microsoft Excel can be a powerful tool for data-driven decision-making in FMCG and retail analytics.
 
 🖼️ Dashboard Preview
-Screenshot%202025-07-02%20141958.png
+Screenshot 2025-07-02 141958.png
 
 🔍 Key Insights
 ₹1.2M+ total sales from 8,524 unique items
